@@ -41,21 +41,6 @@
 - Passwords hashed using bcrypt
 - Role-based access for customers and sellers
 
----
-
-## 📦 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Grocify.git
-
-# Navigate into the project folder
-cd Grocify
-
-# Install server dependencies
-cd server
-npm install
-
 # Install client dependencies
 cd ../client
 npm install
